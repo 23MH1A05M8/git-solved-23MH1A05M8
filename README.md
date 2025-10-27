@@ -58,3 +58,4 @@ export DEPLOY_ENV=production
 # Run deployment
 ./scripts/deploy.sh
 ## FAQ
+update
