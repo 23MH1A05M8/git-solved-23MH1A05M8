@@ -1,12 +1,12 @@
-// server.js
-const express = require("express");
-const app = express();
-const PORT = 3000;
 
-app.get("/", (req, res) => {
-  res.send("🚀 DevOps Simulator is running successfully!");
+const http = require('http');
+
+const server = http.createServer((req, res) => {
+  res.end('Server is running successfully!');
 });
 
-app.listen(PORT, () => {
-  console.log(`✅ Server started successfully on port ${PORT}`);
+const PORT = process.env.PORT || 3000;
+
+server.listen(PORT, () => {
+  console.log(`✅ Server started on http://localhost:${PORT}`);
 });
