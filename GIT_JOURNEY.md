@@ -132,19 +132,15 @@ merge conflicts across multiple branches using proper Git workflows.
 
 ## *Testing*
 
-After completing all merge conflict resolutions, the functionality of the application was tested to ensure stability and correctness.
+After completing all merge conflict resolutions, I tested the project to make sure everything worked properly.
 
-Commands Used to Test
+### *Commands Used to Test*
+- **npm install**  
+- **npm run dev** 
 
-set NODE_ENV=development
-
-npm install
-
-npm run dev
-
-During the testing phase (npm run dev), I faced conflicts due to experimental dependencies and environment setup issues.
-Some features required additional configuration to ensure compatibility after merging multiple branches.
-Resolving merge conflicts while maintaining the application’s functionality was the most challenging part, as it required careful inspection of every conflicting line before committing the final version.
+During the testing phase (npm run dev), I faced conflicts due to experimental dependencies and environment setup issues.  
+Some features required extra configuration to work correctly after merging multiple branches.  
+Resolving merge conflicts while keeping the application functional was challenging, as it required checking each conflicting line carefully before committing the final version.
 
 ## *Most Challenging Parts*
 
