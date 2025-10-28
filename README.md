@@ -8,8 +8,8 @@ A comprehensive and AI-powered CI/CD configuration management tool for enterpris
 - **Version**: 3.0.0-experimental (latest) | 1.0.0 (Production) | 2.0.0-beta (Development)
 - **Environments**: Production, Development, and Testing
 - **Maintainer**: DevOps Innovation Team
-- **Student**: Kunisetty Hadassa
-- **Student ID**: [Enter your ID if required]
+- **Student**: HADASSA KUNISETTY
+- **Student ID**: 23MH1A05M8
 
 ---
 
