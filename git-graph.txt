@@ -1,19 +1,29 @@
-* d2efa98 (HEAD -> main, origin/main) docs: Add changelog
-| * f71ae97 (feature/another-feature) Bad commit
-|/  
-| * c34b314 (origin/feature/another-feature) feat: Add test feature
+* 4ee6048 (HEAD -> main, origin/main, origin/HEAD) docs: Add CHANGELOG.md
+* c4e022c docs: Add GIT_JOURNEY.md
+*   5beb3f6 Merge branch 'feature/another-feature'
+|\  
+| * f71ae97 Bad commit
+* | 0e63ce8 docs: Add my Git Journey report
+* |   c6533f9 Merge pull request #1 from 23MH1A05M8/feature/another-feature
+|\ \  
+| * | 42ed91f Update README.md
+| * | c34b314 feat: Add test feature
+| |/  
+* | 4bba94f docs: Add final project artifacts
+* | d2efa98 docs: Add changelog
 |/  
 * c639468 (tag: v1.1.0, tag: v1.0.0) docs: Update README
 * 7e3d450 feat: Add new feature
 * 92eb800 docs: Add FAQ section
-| * 4f4db61 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| * a41b276 (feature/new-feature) Update README.md
+| * 4f4db61 feat: Add new feature
 |/  
 *   92a2ce2 merge: Resolve all conflicts between main and conflict-simulator branches
 |\  
-| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+| * d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
 * |   591e11d merge: Resolve all conflicts between main and dev branches
 |\ \  
-| * | 02011a5 (instructor/dev, dev) updating dev
+| * | 02011a5 (origin/dev, instructor/dev, dev) updating dev
 | |/  
 * | 0312c6f (instructor/main, instructor/HEAD) updating main
 * | fadfd24 Revise README for DevOps Simulator project
