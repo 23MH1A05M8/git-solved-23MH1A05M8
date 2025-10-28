@@ -130,6 +130,21 @@ merge conflicts across multiple branches using proper Git workflows.
 - *Difficulty:* Easy  
 - *Time:* 10 minutes  
 
+## *Testing*
+
+After completing all merge conflict resolutions, the functionality of the application was tested to ensure stability and correctness.
+
+Commands Used to Test
+
+set NODE_ENV=development
+
+npm install
+
+npm run dev
+
+During the testing phase (npm run dev), I faced conflicts due to experimental dependencies and environment setup issues.
+Some features required additional configuration to ensure compatibility after merging multiple branches.
+Resolving merge conflicts while maintaining the application’s functionality was the most challenging part, as it required careful inspection of every conflicting line before committing the final version.
 
 ## *Most Challenging Parts*
 
