@@ -1,4 +1,5 @@
-* 4ee6048 (HEAD -> main, origin/main, origin/HEAD) docs: Add CHANGELOG.md
+* f45c63e (HEAD -> main, origin/main, origin/HEAD) docs: Add final project artifacts
+* 4ee6048 docs: Add CHANGELOG.md
 * c4e022c docs: Add GIT_JOURNEY.md
 *   5beb3f6 Merge branch 'feature/another-feature'
 |\  
