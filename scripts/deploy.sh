@@ -121,3 +121,4 @@ case "$DEPLOY_ENV" in
 esac
 
 echo "🎉 Deployment process finished!"
+BUG
